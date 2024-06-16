@@ -7,4 +7,6 @@ import jakarta.persistence.Table;
 @Table(name= "products")
 public class ProductModel {
 
+	public String id;
+	
 }
